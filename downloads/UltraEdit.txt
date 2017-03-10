@@ -1,0 +1,1 @@
+UltraEdit Linux版！改为gtk3界面库！除了Linux版还出跨平台版（Windows版，MacOSX版）！已投资！
